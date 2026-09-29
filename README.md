@@ -1,4 +1,4 @@
-<img width="3024" height="1898" alt="image" src="https://github.com/user-attachments/assets/925704e6-a1bf-41e8-ae52-e14378360c29" /># Newman Society Server Setup Instructions
+# Newman Society Server Setup Instructions
 
 ## This page will explain how to set up your Minecraft instance in order to play on the UQ Newman Minecraft Server.
 #### If you haven't already, install the Minecraft Launcher from: https://www.minecraft.net/en-us/download
@@ -49,7 +49,10 @@ https://cdn.modrinth.com/data/k68glP2e/versions/FSEUH1fZ/automodpack-mc26.2-fabr
 ### Step 14: Fill in the server details like so:
 <img width="3024" height="1898" alt="image" src="https://github.com/user-attachments/assets/58135054-d3be-4aba-8c1a-ffb9f1a2c224" />
 Server Name: Newman Minecraft Server
+<br>
 Server Address: della-locate.tun.ply.gg
+
+### Step 15: Click done and your ready to play!
 
 
 
