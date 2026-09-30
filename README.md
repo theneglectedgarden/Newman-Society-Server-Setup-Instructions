@@ -4,10 +4,11 @@
 #### If you haven't already, install the Minecraft Launcher from: https://www.minecraft.net/en-us/download
 
 ### Java Download
-Before you do anything, you must have Java downloaded. If you are unsure, download and run the following installers
+#### Before you do anything, you must have Java downloaded. If you are unsure, download and run the following installer:
 
 Windows: https://download.oracle.com/java/25/latest/jdk-25_windows-x64_bin.exe
-MacOS: https://download.oracle.com/java/25/latest/jdk-25_macos-aarch64_bin.dmg (sha256)
+<br>
+MacOS: https://download.oracle.com/java/25/latest/jdk-25_macos-aarch64_bin.dmg 
 
 ### Step 1: Download and run the following:
 https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.1.2/fabric-installer-1.1.2.jar
